@@ -44,38 +44,6 @@
       "jar": "https://pan.shangui.cc/f/lkM3ck/fan711.jar"
     },
     {
-      "key": "yunyun",
-      "name": "📛逍遥飞云2K",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://pan.shangui.cc/f/ka2ETR/%E4%BA%91%E4%BA%91.json",
-      "jar": "https://pan.shangui.cc/f/y76EsK/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%948.jar"
-    },
-    {
-      "key": "csp_appys_影探",
-      "name": "📛逍遥影探2K",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://ytcms.lfytyl.com/api.php/app/",
-      "jar": "https://pan.shangui.cc/f/y76EsK/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%948.jar"
-    },
-    {
-      "key":"csp_appysv2_阿里影视",
-      "name":"📛逍遥阿里萝卜",
-      "type":3,
-      "api":"csp_AppYsV2",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"http://aliys.cn:90/api.php/v1.vod"
-    },
-    {
       "key": "csp_DiDuan",
       "name": "📛逍遥低端直连",
       "type": 3,
