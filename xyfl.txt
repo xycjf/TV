@@ -20,7 +20,6 @@
 {"name":"📿逍遥丨神秘哥哥","url":"https://神器每日推送.tk/pz.json"},
 {"name":"🦊逍遥丨warnig","url":"https://agit.ai/wifi/ts/raw/branch/master/210.bmp"},
 {"name":"🌪逍遥丨南风","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
-{"name":"🏡逍遥丨潇洒","url":"https://la.kstore.space/download/2863/01.txt"},
 {"name":"☁逍遥丨云星","url":"http://itvbox.cc/tvbox/云星日记/1.m3u8"},
 {"name":"🔞逍遥专享","url":"https://raw.githubusercontent.com/xycjf/TV/main/fl.json"},
 {"name":"🔞彩蛋1","url":"https://pan.shangui.cc/f/54KbSA/%E7%A6%8F%E5%88%A91.txt"},
