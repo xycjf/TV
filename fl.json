@@ -9,7 +9,7 @@
   "lives": [
     {
       "name": "live",
-      "url": "https://raw.githubusercontent.com/xycjf/TV/main/zb.txt",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/xycjf/TV/main/zb.txt",
       "type": 0,
       "playerType": 1,
       "ua": "okhttp/3.12.13",
@@ -31,7 +31,7 @@
     "name": "📛逍遥福利点播",
     "type": 3,
     "api": "http://52bsj.vip:81/api/v3/file/get/154864/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD2.js?sign=xMh0sTTPC8ojlcxFuPPdSwRlla4XIZ8sPC3OUoFq_AE%3D%3A0",
-    "ext": "https://raw.githubusercontent.com/xycjf/TV/main/FLZB.json"
+    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xycjf/TV/main/FLZB.json"
     },
         {
       "key": "csp_WoGG",
@@ -112,7 +112,7 @@
       "key":"chengren",
        "name":"🈵成人影视1",
         "type":1,
-        "api":"https://www.partnersky-horoskop.com/api.php/provide/vod/",
+        "api":"https://ghproxy.net/https://www.partnersky-horoskop.com/api.php/provide/vod/",
         "searchable":1, 
         "quickSearch":1
      },
@@ -120,7 +120,7 @@
       "key": "老鸭",
       "name": "🈵成人影视2",
       "type": 1,
-      "api": "https://api.apilyzy.com/api.php/provide/vod/",
+      "api": "https://ghproxy.net/https://api.apilyzy.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -155,7 +155,7 @@
       "key": "葡萄",
       "name": "🈵成人影视6",
       "type": 1,
-      "api": "https://caiji.putaozy.net/inc/apijson_vod.php",
+      "api": "https://ghproxy.net/https://caiji.putaozy.net/inc/apijson_vod.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
