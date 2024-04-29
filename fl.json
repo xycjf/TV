@@ -155,7 +155,7 @@
       "key": "葡萄",
       "name": "🈵成人影视6",
       "type": 1,
-      "api": "https://ghproxy.net/https://caiji.putaozy.net/inc/apijson_vod.php",
+      "api": "https://caiji.putaozy.net/inc/apijson_vod.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
