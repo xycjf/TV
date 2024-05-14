@@ -1,9 +1,15 @@
 {
+  "spider": "https://pan.shangui.cc/f/15K2Iw/api.jar;md5;5c497cae38522e64961e061cace5be95",
+  "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;DA553CABC9A4E1F4577D1DEFCAA3AB28",
+   "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
+   
+  "wallpaper": "https://tool.weetai.cn/api",
+  "spider": "https://pan.shangui.cc/f/vDX3Fk/Yoursmile2.jar",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=meinv&type=302",
   "lives": [
     {
       "name": "live",
-      "url": "https://gitee.com/xycjf_1/tv/raw/master/zb.txt",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/xycjf/TV/main/zb.txt",
       "type": 0,
       "playerType": 1,
       "ua": "okhttp/3.12.13",
@@ -11,6 +17,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
+  "warningText": "2024-05-14更新接口，每次打开记得长按主页刷新！",
   "sites": [
     {
         "key": "火狐",
