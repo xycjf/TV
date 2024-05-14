@@ -96,7 +96,7 @@
             "name": "🐹业余线路"
         },
 {"name":"🔞逍遥专享","url":"https://ghproxy.net/https://raw.githubusercontent.com/xycjf/TV/main/fl.json"},
-{"name":"🔞彩蛋1","url":"https://ghproxy.com/https://raw.githubusercontent.com/xycjf/TV/main/chengren.txt"},
+{"name":"🔞彩蛋1","url":"https://ghproxy.com/https://raw.githubusercontent.com/xycjf/TV/main/xyfl.json"},
 {"name":"🔞彩蛋2","url":"https://pan.shangui.cc/f/6pKZtp/%E7%A6%8F%E5%88%A92.txt"},
 {"name":"🔞彩蛋3","url":"https://pan.shangui.cc/f/pxyEsL/%E7%A6%8F%E5%88%A93.txt"},
 {"name":"🔞18+","url":"https://pan.shangui.cc/f/N0g3Sj/%E7%A6%8F%E5%88%A94.txt"},
