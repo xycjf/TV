@@ -31,8 +31,8 @@
     "key": "直播转点播1",
     "name": "📛逍遥福利点播1",
     "type": 3,
-    "api": "http://52bsj.vip:81/api/v3/file/get/154864/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD2.js?sign=xMh0sTTPC8ojlcxFuPPdSwRlla4XIZ8sPC3OUoFq_AE%3D%3A0",
-    "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xycjf/TV/main/chengren.txt"
+    "api": "https://gitee.com/xycjf_1/tv/raw/master/zbzdb.js",
+    "ext": "https://gitee.com/xycjf_1/tv/raw/master/FLZB.json"
     },
     {
     "key": "直播转点播",
