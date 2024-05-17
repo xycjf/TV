@@ -39,7 +39,7 @@
        "name":"📛逍遥┃福利点播",
        "type": 3,
        "api":"https://gitee.com/xycjf_1/tv/raw/master/zbzdb.js",
-       "ext":"https://gitee.com/xycjf_1/tv/raw/master/FLZB.txt"
+       "ext":"https://gitee.com/xycjf_1/tv/raw/master/FLZB.json"
        },
     {
       "key": "csp_WoGG",
