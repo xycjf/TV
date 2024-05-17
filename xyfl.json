@@ -39,7 +39,7 @@
        "name":"📛逍遥┃福利点播1",
        "type": 3,
        "api":"https://ghproxy.net/https://github.com/xycjf/TV/raw/main/zbzdb.js",
-       "ext":"https://ghproxy.net/https://github.com/xycjf/TV/raw/main/FLZB.json"
+       "ext":"https://gitee.com/xycjf_1/tv/raw/master/FLZB.txt"
        }, 
     {
        "key":"直播转点播",
