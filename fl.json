@@ -17,11 +17,11 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
-  "warningText": "2024-05-4更新接口，每次打开记得长按主页刷新！",
+  "warningText": "2024-05-17更新接口，每次打开记得长按主页刷新！",
   "sites": [
     {
       "key": "搜索┃豆瓣js",
-      "name": "📛逍遥专享【2024-04-9更新接口，长按主页刷新】",
+      "name": "📛逍遥专享【2024-04-17更新接口，长按主页刷新】",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js",
       "ext": "https://pan.shangui.cc/f/54MbUA/douban.js"
