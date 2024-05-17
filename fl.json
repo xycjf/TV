@@ -119,10 +119,11 @@
     {
       "key":"chengren",
        "name":"🈵成人影视1",
-        "type":1,
-        "api":"https://ghproxy.net/https://www.partnersky-horoskop.com/api.php/provide/vod/",
+        "type":0,
+        "api":"https://www.hgzy05.com/api.php/provide/vod/at/xml",
         "searchable":1, 
         "quickSearch":1
+        "filterable": 0
      },
     {
       "key": "老鸭",
@@ -639,8 +640,7 @@
 
      {"key": "10","name": "📛精选自用且免费📛","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
      {"key": "11","name": "📛请勿付费使用📛","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
-     {"key": "12","name": "📛微信公众号📛","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
-     {"key": "13","name": "📛挺好分享📛","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0}
+     {"key": "13","name": "📛逍遥分享📛","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0}
     
     
   ],
