@@ -62,6 +62,17 @@
       "ext": "https://pan.shangui.cc/f/ka2ETR/%E4%BA%91%E4%BA%91.json",
       "jar": "https://pan.shangui.cc/f/y76EsK/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%948.jar"
     },
+    {
+      "key": csp_星辰",
+      "name": "📛逍遥┃星辰影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/xycjf_1/tv/raw/master/%E6%98%9F%E8%BE%B0%E5%BD%B1%E8%A7%86.json",
+      "jar": "https://gitee.com/xycjf_1/tv/blob/master/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/HeChengChaXiu.jar"
+    },
      {
       "key": "drpy_js_ikanbot3",
       "name": "📛逍遥┃爱看影视",
