@@ -28,13 +28,20 @@
     },
 
  {
-    "key": "直播转点播",
-    "name": "📛逍遥福利点播",
+    "key": "直播转点播1",
+    "name": "📛逍遥福利点播1",
     "type": 3,
     "api": "https://gitee.com/xycjf_1/tv/raw/master/zbzdb.js",
     "ext": "https://gitee.com/xycjf_1/tv/raw/master/FLZB.json"
     },
-        {
+ {
+       "key":"直播转点播",
+       "name":"📛逍遥┃福利点播",
+       "type": 3,
+       "api":"http://127.0.0.1:9978/file/TVBox/JS/lib/直播转点播2.js",
+       "ext":"https://gitee.com/xycjf_1/tv/raw/master/FLZB.txt"
+       }, 
+    {
       "key": "csp_WoGG",
       "name": "📛逍遥资源4K",
       "type": 3,
