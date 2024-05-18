@@ -50,16 +50,6 @@
        "api":"https://ghproxy.net/https://github.com/xycjf/TV/raw/main/zbzdb.js",
        "ext":"https://gitee.com/xycjf_1/tv/raw/master/FLZB.txt"
        },
-    {
-      "key": "csp_WoGG",
-      "name": "📛逍遥┃资源影视",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://pan.shangui.cc/f/lkM3ck/fan711.jar"
-    },
         {
       "key": "南瓜",
       "name": "🎃南瓜┃多线",
@@ -84,18 +74,8 @@
       "key": "drpy_js_ikanbot3",
       "name": "📛逍遥┃爱看影视",
       "type": 3,
-      "api": "http://ztha.top/catjs/JS/lib/drpy2.min.js",
-      "ext": "http://ztha.top/catjs/JS/js/ikanbot3.js"
-    },
-    {
-      "key": "csp_DiDuan",
-      "name": "📛逍遥┃低端直连",
-      "type": 3,
-      "api": "csp_Ddrk",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "https://pan.shangui.cc/f/lkM3ck/fan711.jar"
+      "api": "https://gitee.com/xycjf_1/tv/raw/master/js/drpy2.min_2.js",
+      "ext": "https://gitee.com/xycjf_1/tv/raw/master/js/ikanbot3.js"
     },
     {
       "key": "采集E(甜蜜)",
