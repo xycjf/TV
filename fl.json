@@ -21,10 +21,10 @@
   "sites": [
     {
       "key": "搜索┃豆瓣js",
-      "name": "📛逍遥专享【2024-05-17更新接口，长按主页刷新】",
+      "name": "📛逍遥专享【2024-05-18更新接口，长按主页刷新】",
       "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js",
-      "ext": "https://pan.shangui.cc/f/54MbUA/douban.js"
+      "api": "https://gitee.com/xycjf_1/tv/raw/master/drpy2.min.js",
+      "ext": "https://gitee.com/xycjf_1/tv/raw/master/douban.js"
     },
 
  {
@@ -38,7 +38,7 @@
        "key":"直播转点播",
        "name":"📛逍遥┃福利点播",
        "type": 3,
-       "api":"http://127.0.0.1:9978/file/TVBox/JS/lib/直播转点播2.js",
+       "api":"https://gitee.com/xycjf_1/tv/raw/master/zbzdb.js",
        "ext":"https://gitee.com/xycjf_1/tv/raw/master/FLZB.txt"
        }, 
     {
