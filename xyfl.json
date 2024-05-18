@@ -52,7 +52,7 @@
        "key":"直播转点播",
        "name":"📛逍遥┃福利点播",
        "type": 3,
-       "api":"http://127.0.0.1:9978/file/TVBox/JS/lib/直播转点播2.js",
+       "api":"https://ghproxy.net/https://github.com/xycjf/TV/raw/main/zbzdb.js",
        "ext":"https://gitee.com/xycjf_1/tv/raw/master/FLZB.txt"
        },
     {
