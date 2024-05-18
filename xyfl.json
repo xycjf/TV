@@ -19,6 +19,13 @@
   ],
   "warningText": "2024-05-17更新接口，每次打开记得长按主页刷新！",
   "sites": [
+        {
+      "key": "搜索┃豆瓣js",
+      "name": "📛逍遥福利【2024-05-18更新接口，长按主页刷新】",
+      "type": 3,
+      "api": "https://gitee.com/xycjf_1/tv/raw/master/drpy2.min.js",
+      "ext": "https://gitee.com/xycjf_1/tv/raw/master/douban.js"
+    },
     {
         "key": "火狐",
         "name": "📛逍遥69【2024/5/17】",
