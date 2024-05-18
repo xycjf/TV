@@ -1,4 +1,10 @@
 {
+  "spider": "https://pan.shangui.cc/f/15K2Iw/api.jar;md5;5c497cae38522e64961e061cace5be95",
+  "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;DA553CABC9A4E1F4577D1DEFCAA3AB28",
+   "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
+   
+  "wallpaper": "https://tool.weetai.cn/api",
+  "spider": "https://pan.shangui.cc/f/vDX3Fk/Yoursmile2.jar",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=meinv&type=302",
   "lives": [
     {
@@ -25,8 +31,8 @@
     "key": "直播转点播1",
     "name": "📛逍遥福利点播1",
     "type": 3,
-    "api": "https://ghproxy.net/https://github.com/xycjf/TV/raw/main/zbzdb.js",
-    "ext": "https://gitee.com/xycjf_1/tv/raw/master/FLZB.txt"
+    "api": "https://gitee.com/xycjf_1/tv/raw/master/zbzdb.js",
+    "ext": "https://gitee.com/xycjf_1/tv/raw/master/FLZB.json"
     },
  {
        "key":"直播转点播",
