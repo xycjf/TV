@@ -59,16 +59,25 @@
       "filterable": 1,
       "jar": "https://pan.shangui.cc/f/lkM3ck/fan711.jar"
     },
-    {
-      "key": "yunyun",
-      "name": "📛逍遥┃飞云影视",
+        {
+      "key": "南瓜",
+      "name": "🎃南瓜┃多线",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_NanGua",
+      "timeout": 15,
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://pan.shangui.cc/f/ka2ETR/%E4%BA%91%E4%BA%91.json",
-      "jar": "https://pan.shangui.cc/f/y76EsK/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%948.jar"
+      "changeable": 1
+    },
+    {
+      "key": "苹果",
+      "name": "🍎苹果┃不卡",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
      {
       "key": "drpy_js_ikanbot3",
