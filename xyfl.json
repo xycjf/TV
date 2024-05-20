@@ -113,11 +113,10 @@
       "key": "didizy.com",
       "name": "撸铁🍅滴滴资源",
       "type": 1,
-      "api": "https://api.ddapi.cc/api.php/provide/vod/at/xmlsea/",
-      "playerType": 1,
-      "searchable": 1,
+      "api": "https://api.ddapi.cc/api.php/provide/vod/at/xml",
+     "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     }, 
       {
       "key": "aosikazy5.com",
