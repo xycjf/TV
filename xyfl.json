@@ -132,9 +132,9 @@
     }, 
     {
       "key": "caoliuzyw.com",
-      "name": "撸铁🍓草榴",
-      "type": 1,
-      "api": "https://www.caoliuzyw.com/api.php/prodao/vod/at/json/",
+      "name": "撸铁🍓草榴资源",
+      "type": 0,
+      "api": "https://www.caoliuzyw.com/api.php/prodao/vod/at/xml",
        "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
