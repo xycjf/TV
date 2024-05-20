@@ -41,14 +41,14 @@
        "key":"直播转点播1",
        "name":"📛逍遥┃福利点播1",
        "type": 3,
-       "api":"https://ghproxy.net/https://github.com/xycjf/TV/raw/main/zbzdb.js",
-       "ext":"https://ghproxy.net/https://raw.githubusercontent.com/xycjf/TV/main/FLZB.json"
+       "api":"https://gitee.com/xycjf_1/tv/raw/master/zbzdb.js",
+       "ext":"https://gitee.com/xycjf_1/tv/raw/master/FLZB.json"
        }, 
     {
        "key":"直播转点播",
        "name":"📛逍遥┃福利点播",
        "type": 3,
-       "api":"https://ghproxy.net/https://github.com/xycjf/TV/raw/main/zbzdb.js",
+       "api":"https://gitee.com/xycjf_1/tv/raw/master/zbzdb.js",
        "ext":"https://gitee.com/xycjf_1/tv/raw/master/FLZB.txt"
        },
         {
