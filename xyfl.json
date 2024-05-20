@@ -131,10 +131,10 @@
       "filterable": 1
     }, 
     {
-      "key": "senlinzy2.com",
-      "name": "撸铁🍓森林专场",
-      "type": 0,
-      "api": "https://slapibf.com/api.php/provide/vod/at/xml",
+      "key": "caoliuzyw.com",
+      "name": "撸铁🍓草榴",
+      "type": 1,
+      "api": "https://www.caoliuzyw.com/api.php/prodao/vod/at/json/",
        "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
