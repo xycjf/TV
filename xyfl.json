@@ -112,11 +112,12 @@
      {
       "key": "didizy.com",
       "name": "撸铁🍅滴滴资源",
-      "type": 1,
+      "type": 0,
       "api": "https://api.ddapi.cc/api.php/provide/vod/at/xml",
-     "searchable": 1,
+     "playerType": 1,
+      "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     }, 
       {
       "key": "aosikazy5.com",
@@ -186,9 +187,9 @@
     {
       "key": "色猫",
       "name": "撸铁🍎色猫",
-      "type": 1,
-      "api": "https://caiji.semaozy.net/inc/api.php",
-      "playUrl": "",
+      "type": 0,
+      "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
+      "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
