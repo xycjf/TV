@@ -109,6 +109,16 @@
       "quickSearch": 1,
       "filterable": 1
     }, 
+     {
+      "key": "didizy.com",
+      "name": "撸铁🍅滴滴资源",
+      "type": 1,
+      "api": "https://api.ddapi.cc/api.php/provide/vod/at/xml",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }, 
       {
       "key": "aosikazy5.com",
       "name": "撸铁🍅奥斯卡",
