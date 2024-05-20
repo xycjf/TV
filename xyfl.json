@@ -134,10 +134,8 @@
       "name": "撸铁🍓狼友会",
       "type": 0,
       "api": "https://api.lyhapi.com/api.php/provide/vod/at/xml",
-      "playerType": 1,
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "changeable": 1
     },
     
     {
