@@ -99,7 +99,26 @@
       "quickSearch": 1,
       "filterable": 1
     },
-        
+    {
+      "key": "sesehuzy.com",
+      "name": "撸铁🍅色虎",
+      "type": 1,
+      "api": "https://apisesehuzy.com/api.php/providedao/vod/",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }, 
+      {
+      "key": "aosikazy5.com",
+      "name": "撸铁🍅奥斯卡",
+      "type": 1,
+      "api": "https://aosikazy.com/api.php/provide/vod/",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }, 
     {
       "key": "森林专场",
       "name": "撸铁🍓草莓",
