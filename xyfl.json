@@ -60,6 +60,14 @@
       "filterable": 1,
      "jar": "https://gitee.com/xycjf_1/tv/raw/master/feimao.jar"     
     },
+     {
+      "key": "csp_Juqq",
+      "name": "⭕┃剧圈┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_Juqq",
+     "jar": "https://gitee.com/xycjf_1/tv/raw/master/feimao.jar"
+    },
         {
       "key": "南瓜",
       "name": "🎃南瓜┃多线",
@@ -93,7 +101,7 @@
       "changeable": 1
     },
      {
-      "key": "drpy_js_ikanbot3",
+      "key": "ikanbot3",
       "name": "📛逍遥┃爱看影视",
       "type": 3,
       "playerType": "2",
