@@ -96,6 +96,7 @@
       "key": "drpy_js_ikanbot3",
       "name": "📛逍遥┃爱看影视",
       "type": 3,
+      "playerType": "2",
       "api": "https://gitee.com/xycjf_1/tv/raw/master/js/drpy2.min_2.js",
       "ext": "https://gitee.com/xycjf_1/tv/raw/master/js/ikanbot3.js"
     },
