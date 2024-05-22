@@ -51,6 +51,16 @@
        "ext":"https://gitee.com/xycjf_1/tv/raw/master/FLZB.txt"
        },
         {
+      "key": "兄弟",
+      "name": "👯┃兄弟┃影视",
+      "type": 3,
+      "api": "csp_Xdys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+     "jar": "https://gitee.com/xycjf_1/tv/raw/master/feimao.jar"     
+    },
+        {
       "key": "南瓜",
       "name": "🎃南瓜┃多线",
       "type": 3,
