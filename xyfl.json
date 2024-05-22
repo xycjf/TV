@@ -50,6 +50,18 @@
        "api":"https://gitee.com/xycjf_1/tv/raw/master/zbzdb.js",
        "ext":"https://gitee.com/xycjf_1/tv/raw/master/FLZB.txt"
        },
+     {
+      "key": "csp_Panda_玩偶哥哥",
+      "name": "👲┃玩偶┃影视",
+      "api": "csp_Wogg",
+      "type": 3,
+      "searchable": 1,
+      "playerType": 2,
+      "timeout": 30,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt",
+     "jar": "https://gitee.com/xycjf_1/tv/raw/master/feimao.jar"
+    },
         {
       "key": "兄弟",
       "name": "👯┃兄弟┃影视",
