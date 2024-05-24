@@ -200,16 +200,13 @@
       "quickSearch": 1,
       "filterable": 1
     }, 
-    
     {
-      "key": "avre.club",
-      "name": "撸铁🍎黄瓜资源网",
-      "type": 1,
-      "api": "https://www.avre06.com/api.php/provide/vod/",
-     "playerType": 1,
+      "key": "gqzy.me",
+      "name": "撸铁🍆搞起资源",
+      "type": 0,
+      "api": "https://caiji.gqjiexi.com/api.php/provide/vod/at/xml/ ",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "changeable": 1
     },
     
     {
