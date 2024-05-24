@@ -201,14 +201,12 @@
       "filterable": 1
     }, 
     {
-      "key": "jingpinx.com",
-      "name": "撸铁🍆精品采集网",
+      "key": "yutuzy.com",
+      "name": "撸铁🍆玉兔资源",
       "type": 0,
-      "api": "https://wwwjingpinx.com/api.php/provide/vod/at/xml ",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "api": "https://apiyutu.com/api.php/providedao/vod/at/xml ",
+     "searchable": 1,
+      "changeable": 1
     },
     {
       "key": "gqzy.me",
