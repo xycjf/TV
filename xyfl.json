@@ -73,19 +73,21 @@
     "jar": "https://gitee.com/xycjf_1/tv/raw/master/ou.jar"
     },
 {
-  "key":"秒播短剧",
-  "name":"🐞秒播┃短剧",
+  "key":"csp_XBPQ_胖嘟嘟",
+  "name":"🐞嘟嘟┃短剧",
   "type":3,
-  "api":"csp_Wexduanjuvop",
+  "api":"csp_XBPQ",
   "searchable":1,
-  "changeable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{"分类":"全部$qb#言情$yq#古代$dg#都市$ds","分类url":"https://m.pangdo.com/{cateId}/list_{catePg}.html"},
  "jar": "https://gitee.com/xycjf_1/tv/raw/master/ou.jar"
 },
 {
-  "key":"极品短剧",
-  "name":"🐞极品┃短剧",
+  "key":"河马短剧",
+  "name":"🐞河马┃短剧",
   "type":3,
-  "api":"csp_Wexduanjuvmp",
+  "api":"csp_Wexduanjuhema",
   "searchable":1,
   "changeable":1,
  "jar": "https://gitee.com/xycjf_1/tv/raw/master/ou.jar"
