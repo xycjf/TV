@@ -201,16 +201,6 @@
       "filterable": 1
     }, 
     {
-      "key": "yutuzy.com",
-      "name": "撸铁🍆玉兔采集",
-      "type": 1,
-      "api": "https://apiyutu.com/api.php/provide/vod/ ",
-     "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "gqzy.me",
       "name": "撸铁🍆搞起资源",
       "type": 0,
