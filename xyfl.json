@@ -203,11 +203,13 @@
     
     {
       "key": "avre.club",
-      "name": "撸铁🍎黄瓜资源",
-      "type": 0,
-      "api": "https://www.avre06.com/api.php/Prodao/vod/at/xml",
+      "name": "撸铁🍎黄瓜资源网",
+      "type": 1,
+      "api": "https://www.avre06.com/api.php/provide/vod/",
+     "playerType": 1,
       "searchable": 1,
-      "changeable": 1
+      "quickSearch": 1,
+      "filterable": 1
     },
     
     {
