@@ -202,11 +202,13 @@
     }, 
     {
       "key": "jingpinx.com",
-      "name": "撸铁🍆精品采集",
+      "name": "撸铁🍆精品采集网",
       "type": 0,
       "api": "https://wwwjingpinx.com/api.php/provide/vod/at/xml ",
+      "playerType": 1,
       "searchable": 1,
-      "changeable": 1
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "gqzy.me",
