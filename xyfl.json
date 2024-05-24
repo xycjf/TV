@@ -62,7 +62,35 @@
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt",
      "jar": "https://gitee.com/xycjf_1/tv/raw/master/feimao.jar"
     },
-        {
+    {
+      "key":"星芽短剧",
+      "name":"🐞星芽┃短剧",
+      "type":3,
+      "api":"csp_AppXY",
+      "searchable":1,
+      "quickSearch":0,
+      "filterable":0,
+    "jar": "https://gitee.com/xycjf_1/tv/raw/master/ou.jar"
+    },
+{
+  "key":"秒播短剧",
+  "name":"🐞秒播┃短剧",
+  "type":3,
+  "api":"csp_Wexduanjuvop",
+  "searchable":1,
+  "changeable":1,
+ "jar": "https://gitee.com/xycjf_1/tv/raw/master/ou.jar"
+},
+{
+  "key":"极品短剧",
+  "name":"🐞极品┃短剧",
+  "type":3,
+  "api":"csp_Wexduanjuvmp",
+  "searchable":1,
+  "changeable":1,
+ "jar": "https://gitee.com/xycjf_1/tv/raw/master/ou.jar"
+},
+ {
       "key": "兄弟",
       "name": "👯┃兄弟┃影视",
       "type": 3,
