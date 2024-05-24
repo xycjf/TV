@@ -201,6 +201,14 @@
       "filterable": 1
     }, 
     {
+      "key": "caoliuzyw.com",
+      "name": "撸铁🍆草榴资源",
+      "type": 0,
+      "api": "https://www.caoliuzyw.com/api.php/prodao/vod/at/xml/ ",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "gqzy.me",
       "name": "撸铁🍆搞起资源",
       "type": 0,
@@ -208,7 +216,6 @@
       "searchable": 1,
       "changeable": 1
     },
-    
     {
       "key": "采集F(老鸭)",
       "name": "撸铁🍍菠萝",
