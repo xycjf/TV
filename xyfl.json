@@ -190,55 +190,26 @@
       "quickSearch": 1,
       "filterable": 1
     }, 
-    {
-      "key": "caoliuzyw.com",
-      "name": "撸铁🍓草榴资源",
-      "type": 0,
-      "api": "https://www.caoliuzyw.com/api.php/prodao/vod/at/xml",
-       "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    
-    {
-      "key": "semaozy.net",
-      "name": "撸铁🍎色猫采集",
+   {
+      "key": "aosikazy5.com",
+      "name": "撸铁🍅奥斯卡",
       "type": 1,
-      "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
+      "api": "https://aosikazy.com/api.php/provide/vod/",
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-       "categories": [
-        "国产自拍",
-        "日本无码",
-        "日本有码",
-        "中文字幕",
-        "欧美精品",
-        "成人动漫",
-        "日本素人",
-        "高清名优",
-        "三級伦理",
-        "网红主播",
-        "映画传媒",
-        "人妻熟女",
-        "口爆颜射",
-        "萝莉少女",
-        "SM调教",
-        "美乳巨乳",
-        "短视频",
-        "制服诱惑",
-        "女同性爱",
-        "AI换脸",
-        "多人群交",
-        "翘臀美尻",
-        "丝袜美腿",
-        "精选独家",
-        "贫乳小奶",
-        "探花系列",
-        "AV解说"
-      ]
+      "filterable": 1
+    }, 
+    
+    {
+      "key": "avre.club",
+      "name": "撸铁🍎黄瓜资源",
+      "type": 1,
+      "api": "https://www.avre06.com/api.php/Prodao/vod/",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     
     {
