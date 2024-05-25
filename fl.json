@@ -41,87 +41,12 @@
        "ext":"https://gitee.com/xycjf_1/tv/raw/master/FLZB.txt"
        }, 
     {
-      "key": "csp_WoGG",
-      "name": "📛逍遥资源4K",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://pan.shangui.cc/f/lkM3ck/fan711.jar"
-    },
-    {
-      "key": "csp_DiDuan",
-      "name": "📛逍遥低端直连",
-      "type": 3,
-      "api": "csp_Ddrk",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "https://pan.shangui.cc/f/lkM3ck/fan711.jar"
-    },
-        {
-            "key": "csp_fantuan",
-            "name": "📛逍遥饭团影视",
-            "type": 3,
-            "api": "csp_Fantuan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.fantuan3.com",
-            "jar": "http://api.wemtime.com/TVBOX/box.jar;md5;0A4B198EEC040AB9088F865A169BD04B"
-        },
-    {
-      "key": "YQK",
-      "name": "📛逍遥一起资源",
-      "api": "csp_YQKAPP",
-      "type": 3,
-      "playerType": 2,
-      "ext": "https://hk-api-cf.yqk5659.com"
-    },
-        {
-            "key": "csp_Lgyy",
-            "name": "📛逍遥蓝光影院",
-            "type": 3,
-            "api": "csp_Lgyy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.lgyy.vip",
-            "jar": "http://api.wemtime.com/TVBOX/box.jar;md5;0A4B198EEC040AB9088F865A169BD04B"
-        },
-    {
-      "key": "纸条",
-      "name": "🔍纸条|搜索",
-      "type": 3,
-      "api": "csp_Paper",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "jar": "https://pan.shangui.cc/f/8VKpHo/ali.jar"
-    },
-    {
-      "key": "PanSearch",
-      "name": "🔍阿里|盘搜",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "1020592f69a14d0c9e4d29d7fb95098e"
-    },
-    
-     {"key": "7","name": "-----福利分割线-----","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
-     {"key": "8","name": "-----福利分割线-----","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
-
-
-    {
       "key":"chengren",
        "name":"🈵成人影视1",
         "type":0,
         "api":"https://www.hgzy05.com/api.php/provide/vod/at/xml",
         "searchable":1, 
-        "quickSearch":1
+        "quickSearch":1,
         "filterable": 0
      },
     {
@@ -181,66 +106,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-     {
-      "key": "csp_xBPQ_香蕉超清",
-      "name": "🏆蜜桃淫荡",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/新香蕉超清资源.json"
-    },
-    {
-       "key": "csp_xBPQ_香蕉国产",
-       "name": "🏆香蕉国产",
-       "type": 3,
-       "api": "csp_xBPQ",
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 0,
-       "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/新香蕉国产传媒.json"
-     },
-     {
-       "key": "csp_xBPQ_香蕉久久热",
-       "name": "🏆香蕉久久热",
-       "type": 3,
-       "api": "csp_xBPQ",
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 0,
-       "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/新香蕉久久热.json"
-      },
-      {
-        "key": "csp_xBPQ_香蕉废柴",
-        "name": "🏆香蕉废柴",
-        "type": 3,
-        "api": "csp_xBPQ",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0,
-        "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/新香蕉废柴网.json"
-      },
-      {
-        "key": "csp_xBPQ_香蕉直播",
-        "name": "🏆香蕉直播",
-        "type": 3,
-        "api": "csp_xBPQ",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0,
-        "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/新香蕉实时直播.json"
-      },
-      {
-        "key": "csp_xBPQ_香蕉搜索",
-        "name": "🏆香蕉搜索",
-        "type": 3,
-        "api": "csp_xBPQ",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0,
-        "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/香蕉搜索.json"
-     },
+  
       {"key":"*大地资源","name":"🏆大地资源","type":0,"api":"https://dadiapi.com/api.php","searchable":0,"quickSearch":0},
 
      {"key": "3","name": "-----福利分割线-----","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
