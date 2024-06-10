@@ -16,7 +16,7 @@
   "sites": [
         {
       "key": "搜索┃豆瓣js",
-      "name": "📛逍遥福利【2024-05-18更新接口，长按主页刷新】",
+      "name": "📛逍遥福利【2024-06-10更新接口，长按主页刷新】",
       "type": 3,
       "api": "https://gitee.com/xycjf_1/tv/raw/master/drpy2.min.js",
       "ext": "https://gitee.com/xycjf_1/tv/raw/master/douban.js"
