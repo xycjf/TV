@@ -80,7 +80,7 @@
             "name": "🔞逍遥福利"
         },
 {
-            "url":"https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/xyfl.json",
+            "url":"https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/fl.json",
             "name": "🔞逍遥专享"
         },
         {
