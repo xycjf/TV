@@ -52,7 +52,7 @@
             "name": "🐹小马线路"
         },   
         {
-            "url": "http://2.nxog.eu.org/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=o",
+            "url": "http://2.nxog.eu.org/m/111.php?ou=公众号欧app&mz=index&jar=index&123&b=o",
             "name": "🐹欧歌线路"
         }, 
         {
