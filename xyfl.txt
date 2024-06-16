@@ -52,7 +52,7 @@
             "name": "🐹小马线路"
         },   
         {
-            "url": "https://xn--883aug.v.nxog.top/api.php?id=1",
+            "url": "https://2.nxog.eu.org/nxog/ou1.php?b=o",
             "name": "🐹欧歌线路"
         }, 
         {
