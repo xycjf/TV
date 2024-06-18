@@ -144,7 +144,8 @@
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "jar": "https://gitee.com/xycjf_1/tv/raw/master/jar/fan.txt"
     },
    {
       "key": "厂长",
@@ -156,7 +157,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.czys.top/"
+      "ext": "https://www.czys.top/",
+      "jar": "https://gitee.com/xycjf_1/tv/raw/master/jar/fan.txt"
     }, 
     {
       "key": "比特",
@@ -165,7 +167,8 @@
       "api": "csp_Bttwoo",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "jar": "https://gitee.com/xycjf_1/tv/raw/master/jar/fan.txt"
     },
      {
       "key": "ikanbot3",
