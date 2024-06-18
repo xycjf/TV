@@ -20,7 +20,8 @@
       "api": "csp_DouDou",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0
+      "filterable": 0,
+      "jar": "https://gitee.com/xycjf_1/tv/raw/master/jar/fan.txt"
     },
       {
       "key": "Auete",
