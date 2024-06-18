@@ -33,15 +33,15 @@
       "changeable": 1,
       "ext": "https://auete.pro/"
     },
-       {
-      "key": "短剧",
-      "name": "🌈上头┃短剧",
-      "type": 3,
-      "api": "csp_Djuu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-     "jar": "https://gitee.com/xycjf_1/tv/raw/master/jar/fan.jar"
+     {
+      "key":"星芽短剧",
+      "name":"🐞星芽┃短剧",
+      "type":3,
+      "api":"csp_AppXY",
+      "searchable":1,
+      "quickSearch":0,
+      "filterable":0,
+    "jar": "https://gitee.com/xycjf_1/tv/raw/master/ou.jar"
     },
      {
        "key":"直播转点播1",
@@ -70,14 +70,14 @@
      "jar": "https://gitee.com/xycjf_1/tv/raw/master/feimao.jar"
     },
     {
-      "key":"星芽短剧",
-      "name":"🐞星芽┃短剧",
-      "type":3,
-      "api":"csp_AppXY",
-      "searchable":1,
-      "quickSearch":0,
-      "filterable":0,
-    "jar": "https://gitee.com/xycjf_1/tv/raw/master/ou.jar"
+      "key": "短剧",
+      "name": "🌈上头┃短剧",
+      "type": 3,
+      "api": "csp_Djuu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+     "jar": "https://gitee.com/xycjf_1/tv/raw/master/jar/fan.txt"
     },
        {
       "key": "vipWexduanju",
