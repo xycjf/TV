@@ -175,16 +175,6 @@
       "ext": "https://gitee.com/xycjf_1/tv/raw/master/js/ikanbot3.js"
     },
     {
-      "key": "采集E(甜蜜)",
-      "name": "撸铁🍅番茄",
-      "type": 1,
-      "api": "https://tianmiapi.com/api.php/provide/vod/",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "sesehuzy.com",
       "name": "撸铁🍅色虎",
       "type": 1,
@@ -260,8 +250,7 @@
       "api": "https://www.gdlsp.com/api/xml.php ",
       "searchable": 1,
       "changeable": 1
-    },
-        
+    },      
     {
       "key": "采集G(美少女)",
       "name": "撸铁🍆茄子",
@@ -286,19 +275,7 @@
       "api": "https://www.kxgav.com/api/xml.php ",
       "searchable": 1,
       "changeable": 1
-    },
-        
-    {
-      "key": "采集G(博民)",
-      "name": "撸铁🌽玉米",
-      "type": 1,
-      "api": "https://www.bominzy.com/api.php/provide/vod/",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-        
+    }, 
     {
       "key": "采集H(饮水机)",
       "name": "撸铁🍑桃子",
