@@ -170,14 +170,6 @@
       "changeable": 1,
       "jar": "https://gitee.com/xycjf_1/tv/raw/master/jar/fan.txt"
     },
-     {
-      "key": "ikanbot3",
-      "name": "📛逍遥┃爱看影视",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://gitee.com/xycjf_1/tv/raw/master/js/drpy2.min_2.js",
-      "ext": "https://gitee.com/xycjf_1/tv/raw/master/js/ikanbot3.js"
-    },
     {
       "key": "sesehuzy.com",
       "name": "撸铁🍅色虎",
