@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/xycjf_1/tv/raw/master/fan.txt;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26",
+  "spider": "https://gitee.com/xycjf_1/tv/raw/master/fan.txt;md5;c75cf198357a3a77f2189ab0764f2a8c",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=meinv&type=302",
   "lives": [
     {
@@ -12,14 +12,26 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
-  "warningText": "2024-06-10更新接口，每次打开记得长按主页刷新！",
   "sites": [
         {
       "key": "搜索┃豆瓣js",
-      "name": "📛逍遥福利【2024-06-10更新接口，长按主页刷新】",
+      "name": "📛逍遥影视【2024-06-18更新接口，长按主页刷新】",
+     "type": 3,
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+      {
+      "key": "Auete",
+      "name": "🏝奥特┃无广",
       "type": 3,
-      "api": "https://gitee.com/xycjf_1/tv/raw/master/drpy2.min.js",
-      "ext": "https://gitee.com/xycjf_1/tv/raw/master/douban.js"
+      "api": "csp_Auete",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://auete.pro/"
     },
        {
       "key": "短剧",
