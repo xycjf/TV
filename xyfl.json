@@ -31,7 +31,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://auete.pro/"
+      "ext": "https://auete.pro/",
+     "jar": "https://gitee.com/xycjf_1/tv/raw/master/jar/fan.txt"
     },
      {
       "key":"星芽短剧",
