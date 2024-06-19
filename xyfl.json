@@ -47,6 +47,17 @@
      "jar": "https://gitee.com/xycjf_1/tv/raw/master/jar/fan.txt"
     },
      {
+      "key": "新视觉",
+      "name": "🐯新视觉",
+      "type": 3,
+      "api": "csp_XBPQ",
+        "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+       "jar": "https://gitee.com/xycjf_1/tv/raw/master/jar/panghu.jar",
+      "ext": "https://gitee.com/xycjf_1/tv/raw/master/json/xinshijue.json"
+    },
+     {
       "key":"星芽短剧",
       "name":"🐞星芽┃短剧",
       "type":3,
