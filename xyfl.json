@@ -31,7 +31,7 @@
         "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./panghu.json"
+      "ext": "https://gitee.com/xycjf_1/tv/raw/master/json/panghu.json"
     },
       {
       "key": "Auete",
