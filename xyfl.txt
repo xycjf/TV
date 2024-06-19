@@ -8,10 +8,6 @@
             "name": "🚀肥猫线路"
         },  
         {
-            "url": "https://jihulab.com/okcaptain/kko/-/raw/main/tv.txt",
-            "name": "🚀OK线路"
-        }, 	
-        {
             "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
             "name": "🚀PG线路"
         },  	
