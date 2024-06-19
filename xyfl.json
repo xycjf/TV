@@ -24,6 +24,16 @@
       "jar": "https://gitee.com/xycjf_1/tv/raw/master/jar/fan.txt"
     },
       {
+      "key": "胖虎影视",
+      "name": "🐯胖虎影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+        "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./panghu.json"
+    },
+      {
       "key": "Auete",
       "name": "🏝奥特┃无广",
       "type": 3,
