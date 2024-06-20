@@ -84,9 +84,8 @@
       "api": "csp_WoGG",
       "type": 3,
       "searchable": 1,
-      "playerType": 2,
-      "timeout": 30,
-      "changeable": 0,
+      "quickSearch": 1,
+      "changeable": 0
       ext":{"aliToken":"http://127.0.0.1:9978/file/TVBox/token.txt",
       "quarkCookie":"http://127.0.0.1:9978/file/TVBox/cookie.txt",
        "from":"4k|auto|fhd",
