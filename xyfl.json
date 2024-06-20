@@ -23,14 +23,25 @@
       "filterable": 0,
       "jar": "https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/fan.txt"
     },
+    {
+            "key": "无忧短剧",
+            "name": "无忧短剧",
+            "type": 3,
+            "api": "csp_Duanj",
+            "searchable": 1,
+            "changeable": 0,
+            "jar": "./danju.jar;md5;765dcc77b86562dfc48ede664417ac60"
+        },
       {
       "key": "胖虎影视",
       "name": "🐯胖虎影视",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_Panghu",
         "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "https://www.panghu.lol",
+     "jar": "https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/ph.jar"
     },
       {
       "key": "Auete",
@@ -98,22 +109,6 @@
       "api": "csp_Djuu",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
-    },
-       {
-      "key": "vipWexduanju",
-      "name": "🌸短劇┃精品┃直连",
-      "type": 3,
-      "api": "csp_Wexvipduanju",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Wexduanjuvip",
-      "name": "🌸短劇┃良品┃直连",
-      "type": 3,
-      "api": "csp_Wexduanjuvip",
-      "searchable": 1,
       "changeable": 1
     },
 {
