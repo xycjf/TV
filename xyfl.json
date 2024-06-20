@@ -62,7 +62,7 @@
       "searchable":1,
       "quickSearch":0,
       "filterable":0,
-    "jar": "https://gitee.com/xycjf_1/tv/raw/master/ou.jar"
+    "jar": "https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/ou.jar"
     },
      {
        "key":"直播转点播1",
@@ -86,7 +86,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      ext":{"aliToken":"http://127.0.0.1:9978/file/TVBox/token.txt",
+      "ext":{"aliToken":"http://127.0.0.1:9978/file/TVBox/token.txt",
       "quarkCookie":"http://127.0.0.1:9978/file/TVBox/cookie.txt",
        "from":"4k|auto|fhd",
        "siteUrl":"https://www.wogg.link/","danMu":"弹"}
@@ -125,7 +125,7 @@
   "quickSearch":1,
   "filterable":1,
   "ext":{"分类":"全部$qb#言情$yq#古代$dg#都市$ds","分类url":"https://m.pangdo.com/{cateId}/list_{catePg}.html"},
- "jar": "https://gitee.com/xycjf_1/tv/raw/master/ou.jar"
+ "jar": "https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/ou.jar"
 },
 {
   "key":"河马短剧",
@@ -134,7 +134,7 @@
   "api":"csp_Wexduanjuhema",
   "searchable":1,
   "changeable":1,
- "jar": "https://gitee.com/xycjf_1/tv/raw/master/ou.jar"
+ "jar": "https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/ou.jar"
 },
  {
       "key": "兄弟",
