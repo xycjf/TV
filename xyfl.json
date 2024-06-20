@@ -36,12 +36,12 @@
       "key": "胖虎影视",
       "name": "🐯胖虎影视",
       "type": 3,
-      "api": "csp_Panghu",
+      "api": "csp_XBPQ",
         "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.panghu.lol",
-     "jar": "https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/ph.jar"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/panghu.json",
+     "jar": "https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/panghu.jar"
     },
       {
       "key": "Auete",
@@ -146,7 +146,7 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_Juqq",
-     "jar": "https://gitee.com/xycjf_1/tv/raw/master/feimao.jar"
+     "jar": "https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/feimao.jar"
     },
         {
       "key": "南瓜",
