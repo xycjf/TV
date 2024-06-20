@@ -31,7 +31,6 @@
         "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-       "jar": "https://gitee.com/xycjf_1/tv/raw/master/jar/panghu.jar",
       "ext": "https://gitee.com/xycjf_1/tv/raw/master/json/panghu.json"
     },
       {
