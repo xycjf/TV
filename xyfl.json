@@ -68,15 +68,15 @@
        "key":"直播转点播1",
        "name":"📛逍遥┃福利点播1",
        "type": 3,
-       "api":"https://gitee.com/xycjf_1/tv/raw/master/zbzdb.js",
-       "ext":"https://gitee.com/xycjf_1/tv/raw/master/FLZB.json"
+       "api":"https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/zbzdb.js",
+       "ext":"https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/FLZB.json"
        }, 
     {
        "key":"直播转点播",
        "name":"📛逍遥┃福利点播",
        "type": 3,
-       "api":"https://gitee.com/xycjf_1/tv/raw/master/zbzdb.js",
-       "ext":"https://gitee.com/xycjf_1/tv/raw/master/FLZB.txt"
+       "api":"https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/zbzdb.js",
+       "ext":"https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/FLZB.txt"
        },
      {
       "key": "csp_WoGG",
