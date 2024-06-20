@@ -85,7 +85,7 @@
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0
+      "changeable": 0,
       ext":{"aliToken":"http://127.0.0.1:9978/file/TVBox/token.txt",
       "quarkCookie":"http://127.0.0.1:9978/file/TVBox/cookie.txt",
        "from":"4k|auto|fhd",
