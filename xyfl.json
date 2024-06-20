@@ -30,9 +30,7 @@
       "api": "csp_XBPQ",
         "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-        "jar": "https://gitee.com/xycjf_1/tv/raw/master/jar/panghu.jar",
-      "ext": "https://gitee.com/xycjf_1/tv/raw/master/json/panghu.json"
+      "filterable": 1
     },
       {
       "key": "Auete",
@@ -53,9 +51,7 @@
       "api": "csp_XBPQ",
         "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-       "jar": "https://gitee.com/xycjf_1/tv/raw/master/jar/panghu.jar",
-      "ext": "https://gitee.com/xycjf_1/tv/raw/master/json/xinshijue.json"
+      "filterable": 1
     },
      {
       "key":"星芽短剧",
