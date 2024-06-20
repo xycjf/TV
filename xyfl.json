@@ -189,7 +189,7 @@
       "key": "sesehuzy.com",
       "name": "撸铁🍅色虎",
       "type": 1,
-      "api": "https://apisesehuzy.com/api.php/providedao/vod/",
+      "api": "https://sesehuzy3.com/api.php/providedao/vod/",
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
@@ -209,7 +209,7 @@
       "key": "haosezyw.com",
       "name": "撸铁🍅好色资源",
       "type": 1,
-      "api": "https://haosezyw1.com/api.php/provide/vod/",
+      "api": "https://haosezyw6.com/api.php/provide/vod/",
       "playerType":  1,
       "searchable": 1,
       "quickSearch": 1,
@@ -219,19 +219,11 @@
       "key": "aosikazy5.com",
       "name": "撸铁🍅奥斯卡",
       "type": 1,
-      "api": "https://aosikazy.com/api.php/provide/vod/",
+      "api": "https://aosikazy4.com/api.php/provide/vod/",
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    }, 
-    {
-      "key": "gqzy.me",
-      "name": "撸铁🍆搞起资源",
-      "type": 0,
-      "api": "https://caiji.gqjiexi.com/api.php/provide/vod/at/xml/ ",
-      "searchable": 1,
-      "changeable": 1
     },
     {
       "key": "采集F(老鸭)",
@@ -295,23 +287,6 @@
       "searchable": 1,
       "changeable": 1
     },
-        
-    {
-      "key": "apittzy.com",
-      "name": "撸铁🥭芒果",
-      "type": 1,"style":{ "type":"rect", "ratio":1.485 },
-      "api": "https://apittzy.com/api.php/provide/vod/",
-      "searchable": 1
-    },
-    
-    {
-      "key": "hghhh.com",
-      "name": "撸铁🍋柠檬",
-      "type": 1,"style":{ "type":"rect", "ratio":1.485 },
-      "api": "https://hghhh.com/api.php/provide/vod/",
-      "searchable": 1
-    },
-    
     {
       "key": "bttcj.com",
       "name": "撸铁🥔土豆",
