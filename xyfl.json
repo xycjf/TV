@@ -79,18 +79,18 @@
        "ext":"https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/FLZB.txt"
        },
      {
-      "key": "csp_WoGG",
-      "name": "👲┃玩偶┃影视",
-      "api": "csp_WoGG",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext":{"aliToken":"http://127.0.0.1:9978/file/TVBox/token.txt",
+       "key":"csp_WoGG",
+       "name":"👽玩偶哥哥",
+       "type":3,
+       "api":"csp_WoGG",
+       "searchable":1,
+       "quickSearch":1,
+       "changeable":0,
+       "ext":{"aliToken":"http://127.0.0.1:9978/file/TVBox/token.txt",
       "quarkCookie":"http://127.0.0.1:9978/file/TVBox/cookie.txt",
-       "from":"4k|auto|fhd",
-       "siteUrl":"https://www.wogg.link/","danMu":"弹"}
-    },
+      "from":"4k|auto|fhd",
+      "siteUrl":"https://www.wogg.link/","danMu":"弹"}
+     },
     {
       "key": "短剧",
       "name": "🌈上头┃短剧",
