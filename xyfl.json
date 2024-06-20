@@ -42,7 +42,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://auete.pro/",
-     "jar": "https://gitee.com/xycjf_1/tv/raw/master/jar/fan.txt"
+     "jar": "https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/fan.txt"
     },
      {
       "key": "新视觉",
@@ -79,16 +79,18 @@
        "ext":"https://gitee.com/xycjf_1/tv/raw/master/FLZB.txt"
        },
      {
-      "key": "csp_Panda_玩偶哥哥",
+      "key": "csp_WoGG",
       "name": "👲┃玩偶┃影视",
-      "api": "csp_Wogg",
+      "api": "csp_WoGG",
       "type": 3,
       "searchable": 1,
       "playerType": 2,
       "timeout": 30,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt",
-     "jar": "https://gitee.com/xycjf_1/tv/raw/master/feimao.jar"
+      ext":{"aliToken":"http://127.0.0.1:9978/file/TVBox/token.txt",
+      "quarkCookie":"http://127.0.0.1:9978/file/TVBox/cookie.txt",
+       "from":"4k|auto|fhd",
+       "siteUrl":"https://www.wogg.link/","danMu":"弹"}
     },
     {
       "key": "短剧",
@@ -97,8 +99,7 @@
       "api": "csp_Djuu",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-     "jar": "https://gitee.com/xycjf_1/tv/raw/master/jar/fan.txt"
+      "changeable": 1
     },
        {
       "key": "vipWexduanju",
@@ -143,8 +144,7 @@
       "api": "csp_Xdys",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-     "jar": "https://gitee.com/xycjf_1/tv/raw/master/feimao.jar"     
+      "filterable": 1  
     },
      {
       "key": "csp_Juqq",
@@ -163,8 +163,7 @@
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "jar": "https://gitee.com/xycjf_1/tv/raw/master/jar/fan.txt"
+      "changeable": 1
     },
    {
       "key": "厂长",
@@ -185,8 +184,7 @@
       "api": "csp_Bttwoo",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "jar": "https://gitee.com/xycjf_1/tv/raw/master/jar/fan.txt"
+      "changeable": 1
     },
     {
       "key": "sesehuzy.com",
