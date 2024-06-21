@@ -103,6 +103,24 @@
       "siteUrl":"https://www.wogg.link/","danMu":"弹"}
      },
     {
+            "key": "秒播短剧",
+            "name": "秒播短剧",
+            "type": 3,
+            "api": "csp_Wexduanjuvop",
+            "searchable": 1,
+            "changeable": 1,
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/xiaosa.jar"
+        },
+        {
+            "key": "仙品短剧",
+            "name": "仙品短剧",
+            "type": 3,
+            "api": "csp_Wexduanjuhema",
+            "searchable": 1,
+            "changeable": 1,
+           "jar": "./xiaosa.jar"
+        },
+    {
       "key": "短剧",
       "name": "🌈上头┃短剧",
       "type": 3,
