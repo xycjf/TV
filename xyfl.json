@@ -115,7 +115,7 @@
             "key": "仙品短剧",
             "name": "仙品短剧",
             "type": 3,
-            "api": "csp_Wexduanjuhema",
+            "api": "csp_Wexduanjuvip",
             "searchable": 1,
             "changeable": 1,
            "jar": "./xiaosa.jar"
