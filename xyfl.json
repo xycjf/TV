@@ -21,6 +21,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
+    "ext": "https://physvod.com",
       "jar": "./jar/xiaosa.jar"
     },
     {
