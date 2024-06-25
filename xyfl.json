@@ -17,11 +17,11 @@
       "key": "搜索┃豆瓣js",
       "name": "📛逍遥影视【2024-06-18更新接口，长按主页刷新】",
      "type": 3,
-      "api": "csp_DouDou",
+      "api": "csp_Panghu",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/fan.txt"
+      "jar": "./jar/xiaosa.jar"
     },
     {
             "key": "无忧短剧",
