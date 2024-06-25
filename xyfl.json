@@ -16,13 +16,11 @@
         {
       "key": "搜索┃豆瓣js",
       "name": "📛逍遥影视【2024-06-18更新接口，长按主页刷新】",
-     "type": 3,
-      "api": "csp_Panghu",
+      "type": 3,
+      "api": "csp_DouDou",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0,
-    "ext": "https://physvod.com",
-      "jar": "./jar/xiaosa.jar"
+      "filterable": 0
     },
     {
             "key": "无忧短剧",
@@ -53,8 +51,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://auete.pro/",
-     "jar": "https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/fan.txt"
+      "ext": "https://auete.pro/"
     },
      {
       "key": "新视觉",
@@ -159,8 +156,42 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_Juqq",
-     "jar": "https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/feimao.jar"
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"changeable":1
     },
+      {
+    "key":"萌米",
+    "name":"💥萌米",
+    "type":3,
+    "api":"csp_AppTT",
+    "playerType":1,
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"AO7TcBkd8Jqf5UgA7xXA6dVlLcc="
+    },
+{
+"key":"csp_Kkys",
+"name":"💡酷看",
+"type":3,
+"api":"csp_Kkys",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"changeable":1
+},
+{
+"key":"csp_YCyz",
+"name":"☀原创",
+"type":3,
+"api":"csp_YCyz",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"changeable":1
+},
         {
       "key": "南瓜",
       "name": "🎃南瓜┃多线",
