@@ -75,13 +75,6 @@
       "filterable":0,
     "jar": "https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/ou.jar"
     },
-     {
-       "key":"直播转点播1",
-       "name":"📛逍遥┃福利点播1",
-       "type": 3,
-       "api":"https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/zbzdb.js",
-       "ext":"https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/FLZB.json"
-       }, 
     {
        "key":"直播转点播",
        "name":"📛逍遥┃福利点播",
@@ -103,13 +96,13 @@
       "siteUrl":"https://www.wogg.link/","danMu":"弹"}
      },
     {
-            "key": "秒播短剧",
-            "name": "秒播短剧",
+            "key": "精品短剧",
+            "name": "精品短剧",
             "type": 3,
-            "api": "csp_Wexduanjuvop",
+            "api": "csp_Wexvipduanju",
             "searchable": 1,
             "changeable": 1,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/xiaosa.jar"
+      "jar": "./jar/xiaosa.jar"
         },
         {
             "key": "仙品短剧",
@@ -118,16 +111,17 @@
             "api": "csp_Wexduanjuvip",
             "searchable": 1,
             "changeable": 1,
-           "jar": "./xiaosa.jar"
+           "jar": "./jar/xiaosa.jar"
         },
-    {
-      "key": "短剧",
-      "name": "🌈上头┃短剧",
+  {
+      "key": "热播影视",
+      "name": "🌈热播┃影视",
       "type": 3,
-      "api": "csp_Djuu",
+      "api": "csp_AppRB",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "jar": "./jar/xiaosa.jar"
     },
 {
   "key":"csp_XBPQ_胖嘟嘟",
@@ -141,13 +135,13 @@
  "jar": "https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/ou.jar"
 },
 {
-  "key":"河马短剧",
-  "name":"🐞河马┃短剧",
+  "key":"良品短剧",
+  "name":"🐞良品┃短剧",
   "type":3,
-  "api":"csp_Wexduanjuhema",
+  "api":"csp_Wexduanjuvip",
   "searchable":1,
   "changeable":1,
- "jar": "https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/ou.jar"
+ "jar": "./jar/xiaosa.jar"
 },
  {
       "key": "兄弟",
