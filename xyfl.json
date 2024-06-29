@@ -42,6 +42,17 @@
       "ext": "https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/panghu.json",
      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/panghu.jar"
     },
+    {
+            "key": "万能影院",
+            "name": "️XY|万能影院",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/万能影院.json",
+            "jar": "./jar/xycj.jar"
+        },
       {
       "key": "Auete",
       "name": "🏝奥特┃无广",
