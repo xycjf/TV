@@ -50,7 +50,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/wn.json",
+            "ext": "./json/万能影院.json",
             "jar": "./jar/xycj.jar"
         },
       {
