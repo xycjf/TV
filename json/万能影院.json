@@ -9,11 +9,11 @@
    "homeContent":"1",
      "firstpage": "1",
     //分类链接,{cateId}是分类，{catePg}是页码,第一页没有页码的可以这样写 第二页链接[firstPage=第一页的链接]
-    "class_url": "https://wnvod.net/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+    "class_url": "https://wnvod.net/vodshow/{cateId}--{class}-----{catePg}---{year}.html",
     //https://wnvod.net/vodtype/{cateId}-{catePg}.html
     
     //分类名
-    "class_name": "电视剧&电影&动漫&综艺",
+    "class_name": "电视剧&电影&综艺&动漫&短剧",
     //分类名替换词，替换词中有英文&的用两个中文＆＆代替
     "class_value": "2&1&4&3",
     //筛选数据，json格式，参考xpath的筛选写法
