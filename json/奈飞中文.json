@@ -1,6 +1,6 @@
 {
-    "规则名": "UM影院",
-    "规则作者": "香雅情",
+    "规则名": "奈飞中文",
+    "规则作者": "逍遥",
     "请求头参数": "User-Agent$MOBILE_UA#Referer$WebView",
     "网页编码格式": "UTF-8",
     "图片是否需要代理": "0",
@@ -64,7 +64,7 @@
     "地区详情": "",
     "演员详情": "主演：</span>&&</div>",
     "简介详情": "introduction\">&&</p>",
-    "线路列表数组规则":"#y-playList&&.module-tab-item",
+    "线路列表数组规则": "#y-playList&&.module-tab-item",
     "线路标题": "Text",
     "播放列表数组规则": "body&&.module-play-list-content",
     "选集列表数组规则": "a",
