@@ -43,14 +43,14 @@
      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/panghu.jar"
     },
     {
-            "key": "奈菲中文",
-            "name": "️ 🛩XY|奈菲中文",
+            "key": "奈飞中文",
+            "name": "️ 🛩XY|奈飞中文",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/万能影院.json",
+            "ext": "./json/奈飞中文.json",
             "jar": "./jar/xycj.jar"
         },
       {
