@@ -31,6 +31,17 @@
             "changeable": 0,
             "jar": "./danju.jar;md5;765dcc77b86562dfc48ede664417ac60"
         },
+    {
+      "key": "皮皮影视",
+      "name": "🐯皮皮影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+        "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/皮皮影视.json",
+     "jar": "https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/panghu.jar"
+    },
      {
       "key": "万能影视",
       "name": "🐯万能影视",
