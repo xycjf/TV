@@ -40,7 +40,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/皮皮影视.json",
-     "jar": "https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/panghu.jar"
+     "jar": "./jar/xycj.jar"
     },
      {
       "key": "万能影视",
