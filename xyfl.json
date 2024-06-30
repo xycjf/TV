@@ -46,12 +46,12 @@
       "key": "益达影院",
       "name": "🐯益达影院",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_XYQHiker",
         "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/益达影院.json",
-     "jar": "https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/panghu.jar"
+     "jar": "./jar/xycj.jar"
     },
      {
       "key": "万能影视",
