@@ -24,15 +24,6 @@
       "filterable": 0
     },
     {
-            "key": "无忧短剧",
-            "name": "无忧短剧",
-            "type": 3,
-            "api": "csp_Duanj",
-            "searchable": 1,
-            "changeable": 0,
-          "jar": "./danju.jar"
-        },
-    {
       "key": "drpy_js_奇珍异兽",
       "name": "奇珍异兽[js]",
       "type": 3,
