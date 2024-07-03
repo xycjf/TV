@@ -920,9 +920,64 @@
   ],
    "parses": [
     {
-      "name": "Web聚合",
+      "name": "聚合",
       "type": 3,
-      "url": "Web"
+      "url": "Demo"
+    },
+    {
+      "name": "并发",
+      "type": 2,
+      "url": "Parallel"
+    },
+    {
+      "name": "轮询",
+      "type": 2,
+      "url": "Sequence"
+    },
+    {
+      "name": "逍",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    }
+      }
+    },
+    {
+      "name": "遥",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    }
+      }
+    },
+    {
+      "name": "真",
+      "type": 0,
+      "url": "https://jx.xyflv.com/?url="
+    }
+      }
+    },
+    {
+      "name": "的",
+      "type": 0,
+      "url": "https://bfq.ygpvp.com/ygbfq1/?url="
+    }
+      }
+    },
+       {
+      "name": "帅",
+      "type": 0,
+      "url": "https://www.jkunjx.com/?url="
+    }
+      }
+    },
+     {
+      "name": "-虾米-",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+        }
+      }
     },
     {
       "name": "-咸鱼-",
@@ -935,16 +990,7 @@
         }
       }
     },
-    {
-      "name": "-虾米-",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-        }
-      }
-    },
+    
     {
       "name": "-爱酷-",
       "type": 0,
