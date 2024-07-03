@@ -1,5 +1,6 @@
 {
   "spider": "./nanfeng.jar;md5;28A7B24F340910BB52DBE760B0445629",
+  "spider": "./jar/aiyouteng;md5;b0f882e4f73e078bb53807dac73faef5",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=meinv&type=302",
   "lives": [
     {
@@ -29,39 +30,35 @@
             "api": "csp_Duanj",
             "searchable": 1,
             "changeable": 0,
-            "jar": "./danju.jar;md5;765dcc77b86562dfc48ede664417ac60"
+          "jar": "./duanju.jar"
         },
     {
       "key": "drpy_js_奇珍异兽",
       "name": "奇珍异兽[js]",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./js/iqiyi.js",
-      "jar": "./jar/aiyouteng.jar;md5;b0f882e4f73e078bb53807dac73faef5"
+      "ext": "./js/iqiyi.js"
     },
     {
       "key": "drpy_js_优酷",
       "name": "优酷[js]",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./js/youku.js",
-      "jar": "./jar/aiyouteng.jar;md5;b0f882e4f73e078bb53807dac73faef5"
+      "ext": "./js/youku.js"
     },
     {
       "key": "drpy_js_腾云驾雾",
       "name": "腾云驾雾[js]",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./js/qq.js",
-      "jar": "./jar/aiyouteng.jar;md5;b0f882e4f73e078bb53807dac73faef5"
+      "ext": "./js/qq.js"
     },
     {
       "key": "drpy_js_百忙无果",
       "name": "百忙无果[js]",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./js/mangguo.js",
-      "jar": "./jar/aiyouteng.jar;md5;b0f882e4f73e078bb53807dac73faef5"
+      "ext": "./js/mangguo.js"
     },
     {
       "key": "皮皮影视",
