@@ -1,6 +1,6 @@
 {
   "spider": "./nanfeng.jar;md5;28A7B24F340910BB52DBE760B0445629",
-  
+  "spider": "./js/aiyouteng.jar;md5;b0f882e4f73e078bb53807dac73faef5",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=meinv&type=302",
   "lives": [
     {
@@ -918,11 +918,11 @@
       "searchable": 0
     }
   ],
-   "parses": [
+    "parses": [
     {
-      "name": "聚合",
+      "name": "Web聚合",
       "type": 3,
-      "url": "Demo"
+      "url": "Web"
     },
     {
       "name": "并发",
