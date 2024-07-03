@@ -32,6 +32,34 @@
             "jar": "./danju.jar;md5;765dcc77b86562dfc48ede664417ac60"
         },
     {
+      "key": "drpy_js_奇珍异兽",
+      "name": "奇珍异兽[js]",
+      "type": 3,
+      "api": "./drpy2.min.js",
+      "ext": "./js/iqiyi.js"
+    },
+    {
+      "key": "drpy_js_优酷",
+      "name": "优酷[js]",
+      "type": 3,
+      "api": "./drpy2.min.js",
+      "ext": "./js/youku.js"
+    },
+    {
+      "key": "drpy_js_腾云驾雾",
+      "name": "腾云驾雾[js]",
+      "type": 3,
+      "api": "./drpy2.min.js",
+      "ext": "./js/qq.js"
+    },
+    {
+      "key": "drpy_js_百忙无果",
+      "name": "百忙无果[js]",
+      "type": 3,
+      "api": "./drpy2.min.js",
+      "ext": "./js/mangguo.js"
+    },
+    {
       "key": "皮皮影视",
       "name": "🐯皮皮影视",
       "type": 3,
@@ -137,24 +165,6 @@
       "from":"4k|auto|fhd",
       "siteUrl":"https://www.wogg.link/","danMu":"弹"}
      },
-    {
-            "key": "精品短剧",
-            "name": "精品短剧",
-            "type": 3,
-            "api": "csp_Wexvipduanju",
-            "searchable": 1,
-            "changeable": 1,
-      "jar": "./jar/xiaosa.jar"
-        },
-        {
-            "key": "仙品短剧",
-            "name": "仙品短剧",
-            "type": 3,
-            "api": "csp_Wexduanjuvip",
-            "searchable": 1,
-            "changeable": 1,
-           "jar": "./jar/xiaosa.jar"
-        },
   {
       "key": "热播影视",
       "name": "🌈热播┃影视",
@@ -175,15 +185,6 @@
   "filterable":1,
   "ext":{"分类":"全部$qb#言情$yq#古代$dg#都市$ds","分类url":"https://m.pangdo.com/{cateId}/list_{catePg}.html"},
  "jar": "https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/ou.jar"
-},
-{
-  "key":"良品短剧",
-  "name":"🐞良品┃短剧",
-  "type":3,
-  "api":"csp_Wexduanjuvip",
-  "searchable":1,
-  "changeable":1,
- "jar": "./jar/xiaosa.jar"
 },
  {
       "key": "兄弟",
