@@ -1,5 +1,5 @@
 ﻿[
-{"name":"18","url":"./zb/18.txt&&&https://jihulab.com/ztha/ztha/-/raw/main/jpg/2.jpg"},
-{"name":"番号点播","url":"./zb/cr2.txt&&&https://download.kstore.space/download/4798/%E5%9B%BE%E7%89%87/%E7%95%AA%E5%8F%B7%E7%82%B9%E6%92%AD.png"},       
-{"name":"逍遥专享1","url":"./zb/cr3.txt&&&https://mpimg.cn/view.php/70e94ec740d5efef647bf7f3b984bcbf.png"}
+{"name":"18","url":"https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/zb/18.txt&&&https://jihulab.com/ztha/ztha/-/raw/main/jpg/2.jpg"},
+{"name":"番号点播","url":"https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/zb/cr2.txt&&&https://download.kstore.space/download/4798/%E5%9B%BE%E7%89%87/%E7%95%AA%E5%8F%B7%E7%82%B9%E6%92%AD.png"},       
+{"name":"逍遥专享1","url":"https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/zb/cr3.txt&&&https://mpimg.cn/view.php/70e94ec740d5efef647bf7f3b984bcbf.png"}
 ]
