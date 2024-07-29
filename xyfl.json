@@ -1,5 +1,6 @@
-﻿{
-  "spider": "./jar/xiaosa.jar;md5;28A7B24F340910BB52DBE760B0445629",
+﻿﻿{
+  "spider":"./jar/fan.jar;md5;177584a6db7606778d53181f34310ae9","warningText":"💕逍遥分享的接口💕永久完全免费💕切勿付费购买💕",
+"spider":"./jar/xiaosa.jar;md5;4380cc146fc8ab46e50e839862e8f384","warningText":"💕逍遥分享的接口，永久完全免费，切勿付费购买💕",
  
   "wallpaper": "https://tuapi.eees.cc/api.php?category=meinv&type=302",
   "lives": [
@@ -33,11 +34,46 @@
     "filterable":0,
     "ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"
     },
-    
+        {
+      "key": "小苹果",
+      "name": "🍎小苹果",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "可可",
+      "name": "👻可可┃多线",
+      "type": 3,
+      "api": "csp_Keke",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "素白",
+      "name": "👻素白┃影视",
+      "type": 3,
+      "api": "csp_Subaibai",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
     {
       "key": "drpy_js_奇珍异兽",
       "name": "爱奇艺[js]",
       "type": 3,
+       "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "api": "https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/js/drpy2.min.js",
       "ext": "./js/iqiyi.js"
     }, 
@@ -46,6 +82,11 @@
       "key": "drpy_js_优酷",
       "name": "优酷[js]",
       "type": 3,
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "api": "https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/js/drpy2.min.js",
       "ext": "./js/youku.js"
     },
@@ -53,6 +94,11 @@
       "key": "drpy_js_腾云驾雾",
       "name": "腾讯[js]",
       "type": 3,
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "api": "https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/js/drpy2.min.js",
       "ext": "./js/qq.js"
     },
@@ -188,6 +234,24 @@
   "ext":{"分类":"全部$qb#言情$yq#古代$dg#都市$ds","分类url":"https://m.pangdo.com/{cateId}/list_{catePg}.html"},
  "jar": "./jar/ou.jar"
 },
+    {
+      "key": "快看",
+      "name": "🍄快看┃影视",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "萌米",
+      "name": "🎈┃萌米┃影视",
+      "type": 3,
+       "api": "csp_AppTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1  
+    }, 
  {
       "key": "兄弟",
       "name": "👯┃兄弟┃影视",
