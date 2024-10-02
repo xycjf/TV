@@ -34,15 +34,6 @@
     "filterable":0,
     "ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"
     },
-  {
-      "key": "csp_Vidhub2",
-      "name": "🎼┃Vid┃影视",
-      "type": 3,
-      "api": "csp_Vidhub2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },   
     {
       "key": "爱你短剧",
       "name": "爱你｜短剧",
@@ -73,17 +64,7 @@
       "filterable": 1,
       "ext": "./json/短剧屋.json"
     },
-      {
-      "key": "厂长",
-      "name": "🏭┃厂长┃影视",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://czzy.top/"
-    },
+      
 {
 "key":"南瓜影视2",
 "name":"🎄南瓜┃影视2",
