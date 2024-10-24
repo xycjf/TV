@@ -1,31 +1,46 @@
-var rule = {
+﻿var rule = {
     author: '小可乐/240525/第一版',
-    title: '短剧天堂',
-    host: 'https://duanjutt.tv',
-    hostJs: '',
+
+ title: '短剧天堂',
+    
+host: 'https://duanjutt.tv',
+    
+hostJs: '',
     headers: {'User-Agent': 'MOBILE_UA'},
-    编码: 'utf-8',
-    timeout: 5000,
+    
+编码: 'utf-8',
+    
+timeout: 5000,
 
-    homeUrl: '/',
-    url: '/vodshow/fyfilter---fypage---.html',
-    filter_url: '{{fl.cateId}}--{{fl.by}}---{{fl.letter}}',
-    detailUrl: '',
-    searchUrl: '/vodsearch/**----------fypage---.html',
-    searchable: 1,
+    
+homeUrl: '/',
+    
+url: '/vodtype/fyfilter-fypage.html',
+    
+filter_url: '{{fl.cateId}}--{{fl.by}}---{{fl.letter}}',
+   
+ detailUrl: '',
+    
+searchUrl: '/vodsearch/**----------fypage---.html',
+    
+searchable: 1,
     quickSearch: 1,
-    filterable: 1,
+    
+filterable: 1,
 
-    class_name: '逆袭(1组)&都市(2组)&神医(3组)&脑洞(4组)',
-    class_url: '1&20&25&30',
-    filter_def: {
+    
+class_name: '逆袭(1组)&甜宠(2组)&虐恋(3组)&穿越(4组)&重生(5组)',
+    
+class_url: '1&2&3&4&5',
+    
+filter_def: {
         1: {cateId: '1'},
-        20: {cateId: '20'},
-        25: {cateId: '25'},
-        30: {cateId: '30'}
-    },
-
-    play_parse: true,
+        2: {cateId: '2'},
+        3: {cateId: '3'},
+        4: {cateId: '4'},
+        5: {cateId: '5'}
+    },    
+play_parse: true,
     parse_url: '',
     lazy: `js:
 var kcode = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
