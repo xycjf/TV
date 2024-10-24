@@ -84,7 +84,7 @@
             "name": "🐹短剧"
         },
         {
-            "url":"clan://localhost/Tvbox/xyfl.json",
+            "url":"./xyfl.json",
             "name": "🔞逍遥福利"
         }
 ]
