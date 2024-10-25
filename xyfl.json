@@ -94,14 +94,14 @@
       "ext": "./json/短剧屋.json"
     },
    {
-      "key": "耐飞中文",
-      "name": "耐飞｜中文",
+      "key": "奈飞中文",
+      "name": "奈飞｜中文",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/耐飞中文.json"
+      "ext": "./json/奈飞中文.json"
     },
       {
       "key": "厂长",
