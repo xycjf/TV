@@ -93,16 +93,6 @@
       "filterable": 1,
       "ext": "./json/短剧屋.json"
     },
-    {
-      "key": "剧圈圈",
-      "name": "剧圈圈",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/剧圈圈.json"
-    },
    {
       "key": "奈飞中文",
       "name": "奈飞｜中文",
