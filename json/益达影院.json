@@ -46,7 +46,7 @@
     "搜索链接": "https://www.meiyd11.com/vodsearch/{wd}----------{catePg}---.html",
     "POST请求数据": "",
     "搜索截取模式": "1",
-    "搜索列表数组规则": "body&&.module-items",
+    "搜索列表数组规则": "body&&.module-items&&module-card-itmes",
     "搜索片单是否Jsoup写法": "1",
     "搜索片单图片": ".lazyload&&data-original",
     "搜索片单标题": ".module-card-item-title&&Text",
