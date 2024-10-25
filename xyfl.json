@@ -103,6 +103,16 @@
       "filterable": 1,
       "ext": "./json/奈飞中文.json"
     },
+   {
+      "key": "益达影院",
+      "name": "益达影院",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/益达影院.json"
+    },
       {
       "key": "厂长",
       "name": "🏭┃厂长┃影视",
