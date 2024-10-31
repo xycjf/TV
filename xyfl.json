@@ -73,15 +73,15 @@
       "filterable": 1,
       "ext": "./json/爱你短剧.json"
     },
-    {
-      "key": "河马短剧",
-      "name": "河马｜短剧",
+     {
+      "key": "js_星芽短剧",
+      "name": "星芽短剧",
       "type": 3,
-      "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/河马短剧.json"
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/星芽短剧[优].js"
     },
     {
       "key": "短剧屋",
@@ -92,6 +92,17 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/短剧屋.json"
+    },
+     {
+      "key": "hipy_js_4K-AV",
+      "name": "4K-AV",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/4K-AV.js"
     },
    {
       "key": "奈飞中文",
@@ -126,12 +137,15 @@
     },
  {"key":"csp_XBPQ_红果短剧","name":"🐞红果┃短剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"剧情介绍：&&</p >","分类url":"https://www.jinyanw.com/type/{cateId}-{catePg}.html","分类":"有声动漫$youshengdongman#女频恋爱$nvpinlianai#翻转爽剧$fanzhuanshuangju#古装仙侠$guzhuangxianxia#年代穿越$niandaichuanyue#脑洞悬疑$naodongxuanyi#现代都市$xiandaidushi"}},
 {"key":"剧集","name":"🐞剧集┃短剧","type":3,"api":"csp_XBPQ","ext":{"简介":"剧情介绍：&&</p >","搜索url":"https://wap.ijujitv.cc/search/-------------.html?wd=","分类url":"https://wap.ijujitv.cc/show/{cateId}--------{catePg}---{year}.html","分类":"短剧$9"}},
-       {
-      "key": "天堂短剧",
-      "name": "天堂｜短剧",
+           {
+      "key": "js_短剧天堂",
+      "name": "短剧天堂",
       "type": 3,
-      "api": "https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/js/drpy2.min.js",
-      "ext": "./json/天堂短剧.js"
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./js/短剧天堂.js"
     },
 
 {
@@ -265,15 +279,6 @@
     "name":"❤️蜡笔┃4K",       "type":3,                    "api":"csp_XYQHikerAL",       "searchable":1,               "quickSearch":1,               "filterable":1,
       "ext":"./json/woo.json"
       },
-{
-"key":"星芽短剧",
-"name":"🐞星芽┃短剧",
-"type":3,
-"api":"csp_AppXY",
-"searchable":1,
-"quickSearch":0,
-"filterable":0
-},
     {
       "key": "快看",
       "name": "🍄快看┃影视",
