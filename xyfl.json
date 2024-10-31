@@ -229,7 +229,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xycjf/TV/main/js/drpy2.min.js",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
       "ext": "./js/iqiyi.js"
     }, 
     {
@@ -241,7 +241,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xycjf/TV/main/js/drpy2.min.js",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
       "ext": "./js/youku.js"
     },
         {
@@ -253,7 +253,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xycjf/TV/main/js/drpy2.min.js",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
       "ext": "./js/哔哩视频.js"
     },
     {
@@ -265,21 +265,21 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xycjf/TV/main/js/drpy2.min.js",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
       "ext": "./js/qq.js"
     },
     {
       "key": "drpy_js_百忙无果",
       "name": "芒果[js]",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xycjf/TV/main/js/drpy2.min.js",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
       "ext": "./js/mangguo.js"
     },
         {
       "key": "搜狗视频",
       "name": "搜狗[js]",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xycjf/TV/main/js/drpy2.min.js",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
       "ext": "./js/搜狗视频.js"
     },
      {
