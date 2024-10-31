@@ -280,7 +280,7 @@
       "name": "搜狗[js]",
       "type": 3,
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xycjf/TV/main/js/drpy2.min.js",
-      "ext": "./json/搜狗视频.js"
+      "ext": "./js/搜狗视频.js"
     },
      {
       "key": "胖虎影视",
