@@ -21,7 +21,7 @@
             "name": "🚀欧歌线路"
         },                    
         {
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+            "url": https://cf.ghproxy.cc/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
             "name": "🚀香雅情线路"
         }, 	
       {
@@ -29,7 +29,7 @@
             "name": "🚀饭太硬线路"
         },  
         {
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "url": "https://cf.ghproxy.cc/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "🚀高山流水"
         },
        {
@@ -61,15 +61,15 @@
             "name": "🐹欧歌线路"
         }, 
         {
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+            "url": "https://cf.ghproxy.cc/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
             "name": "🐹南风线路"
         }, 		
         {
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
+            "url": "https://cf.ghproxy.cc/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
             "name": "🐹潇洒线路"
         }, 	
         {
-            "url":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/max.json",
+            "url":"https://cf.ghproxy.cc/https://raw.githubusercontent.com/guot55/yg/main/max.json",
             "name": "🐹月光线路"
         },		
         {
