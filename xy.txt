@@ -20,7 +20,7 @@
             "name": "🚀欧歌线路"
         },                    
         {
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+            "url": "https://cf.ghproxy.cc/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
             "name": "🚀香雅情线路"
         }, 	
       {
@@ -28,7 +28,7 @@
             "name": "🚀毒盒影视"
         },
         {
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "url": "https://cf.ghproxy.cc/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "🚀高山流水"
         },
        {
@@ -46,11 +46,7 @@
         {
             "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json",
             "name": "🚀D佬魔改"
-        },  		
-       {
-            "url": "http://rihou.cc:55/天天开心",
-            "name": "🐹开心线路"
-        },          		
+        },  		       		
         {
             "url": "https://szyyds.cn/tv/x.json",
             "name": "🐹小马线路"
@@ -60,15 +56,15 @@
             "name": "🐹欧歌线路"
         }, 
         {
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+            "url": "https://cf.ghproxy.cc/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
             "name": "🐹南风线路"
         }, 		
         {
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
+            "url": "https://cf.ghproxy.cc/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
             "name": "🐹潇洒线路"
         }, 	
         {
-            "url":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/max.json",
+            "url":"https://cf.ghproxy.cc/https://raw.githubusercontent.com/guot55/yg/main/max.json",
             "name": "🐹月光线路"
         },		
         {
@@ -80,7 +76,7 @@
             "name": "🐹喵影视"
         },
         {
-            "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xycjf/TV/main/xyfl.json",
+            "url":"https://cf.ghproxy.cc/https://raw.githubusercontent.com/xycjf/TV/main/xyfl.json",
             "name": "🔞逍遥福利"
         }
 ]
