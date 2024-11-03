@@ -40,7 +40,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xycjf/TV/main/js/drpy2.min.js",
+"api":"./js/drpy2.min.js",
 "ext":"./js/星芽短剧.js"
 },
   {
@@ -127,7 +127,7 @@
       "key": "看了么",
       "name": "看了么｜影视",
       "type": 3,
-      "api": "https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/js/drpy2.min.js",
+      "api": "./js/drpy2.min.js",
       "ext": "./js/看了么.js"
     }, 
     {
@@ -138,7 +138,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/json/奈飞中文.json"
+      "ext": "./json/奈飞中文.json"
     },   
       {
       "key": "厂长",
@@ -159,7 +159,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/xycjf/TV/main/json/益达影院.json"
+      "ext": "./json/益达影院.json"
     },   
 {"key":"剧集","name":"🐞剧集┃短剧","type":3,"api":"csp_XBPQ","ext":{"简介":"剧情介绍：&&</p >","搜索url":"https://wap.ijujitv.cc/search/-------------.html?wd=","分类url":"https://wap.ijujitv.cc/show/{cateId}--------{catePg}---{year}.html","分类":"短剧$9"}},
     {
@@ -229,7 +229,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+      "api": "./js/drpy2.min.js",
       "ext": "./js/iqiyi.js"
     }, 
     {
@@ -241,7 +241,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+      "api": "./js/drpy2.min.js",
       "ext": "./js/youku.js"
     },
         {
@@ -253,7 +253,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+      "api": "./js/drpy2.min.js",
       "ext": "./js/哔哩视频.js"
     },
     {
@@ -265,21 +265,21 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+      "api": "./js/drpy2.min.js",
       "ext": "./js/qq.js"
     },
     {
       "key": "drpy_js_百忙无果",
       "name": "芒果[js]",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+      "api": "./js/drpy2.min.js",
       "ext": "./js/mangguo.js"
     },
         {
       "key": "搜狗视频",
       "name": "搜狗[js]",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+      "api": "./js/drpy2.min.js",
       "ext": "./js/搜狗视频.js"
     },
      {
