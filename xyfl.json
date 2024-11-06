@@ -65,7 +65,7 @@
       "name": "大米｜APP",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./js/大米星球.js?type=url&params=https://dmz8k4.wiki"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xycjf/TV/main/js/大米星球.js?type=url&params=https://dmz8k4.wiki"
     },
     {
       "key": "西瓜视频",
@@ -88,7 +88,7 @@
       "api": "./js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
-      "ext": "./js/采集之王.js?type=url&params=../json/采集静态.json$1$1"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xycjf/TV/main/js/采集之王.js?type=url&params=https://github.moeyy.xyz/https://raw.githubusercontent.com/xycjf/TV/main/json/采集静态.json$1$1"
     },
     {
             "key": "追剧影视",
