@@ -60,13 +60,6 @@
 "api":"./js/drpy2.min.js",
 "ext":"./js/星芽短剧.js"
 },
- {
-      "key": "大米星球",
-      "name": "大米｜APP",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/大米星球.js?type=url&params=https://dmz8k4.wiki"
-    },
     {
       "key": "西瓜视频",
       "name": "西瓜｜视频",
@@ -80,22 +73,6 @@
         "type": "rect",
         "ratio": 1.433
       }
-    },
-     {
-            "key": "小虎斑弹幕",
-            "name": "小虎斑｜弹幕",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/小虎斑弹幕.js"
-        },  
-    {
-      "key": "采集之王",
-      "name": "采集｜合集",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "./js/采集之王.js?type=url&params=../json/采集静态.json$1$1"
     },
     {
             "key": "追剧影视",
