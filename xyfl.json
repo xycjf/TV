@@ -1,9 +1,17 @@
 ﻿﻿{
-"spider":"./jar/xiaosa1.jar;md5;4380cc146fc8ab46e50e839862e8f384","warningText":"💕逍遥分享的接口，永久完全免费，切勿付费购买💕",
+"spider":"./jar/xiaosa.jar;md5;4380cc146fc8ab46e50e839862e8f384","warningText":"💕逍遥分享的接口，永久完全免费，切勿付费购买💕",
  
   "wallpaper": "https://tuapi.eees.cc/api.php?category=meinv&type=302",
   "lives": [
-    {
+   {
+          "name": "本地live文件",
+          "type":"0",
+          "pass": true,
+          "url":"./live.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+     {
       "name": "live",
       "url": "./zb/cr3.txt",
       "type": 0,
@@ -23,16 +31,25 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    {
-    "key":"阿里云盘登录",
-    "name":"🐲阿里云盘登录",
-    "type":3,
-    "api":"csp_AliYunPan",
-    "searchable":0,
-    "quickSearch":0,
-    "filterable":0,
-    "ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"
-    },
+{
+            "key": "本地",
+            "name": "本地｜视频",
+            "type": 3,
+            "api": "csp_LocalFile"
+        },
+        {
+            "key": "配置中心",
+            "name": "配置｜中心",
+            "type": 3,
+            "api": "csp_Config",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
     {
 "key":"星芽短剧",
 "name":"🎄星芽┃短剧",
@@ -43,25 +60,74 @@
 "api":"./js/drpy2.min.js",
 "ext":"./js/星芽短剧.js"
 },
-  {
-      "key": "csp_Vidhub2",
-      "name": "天天┃影视",
+ {
+      "key": "大米星球",
+      "name": "大米｜APP",
       "type": 3,
-      "api": "csp_AppTT",
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/大米星球.js?type=url&params=https://dmz8k4.wiki"
+    },
+    {
+      "key": "西瓜视频",
+      "name": "西瓜｜视频",
+      "type": 3,
+      "api": "csp_AmuXiguaV2",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      }
+    },
+    {
+      "key": "采集之王",
+      "name": "采集｜合集",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
-    },  
-      {
-      "key": "csp_Djtt",
-      "name": "上头┃短剧",
-      "type": 3,
-      "api": "csp_Djtt",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,  
-      "jar":"./jar/fty.jar"
-    },  
+      "ext": "./js/采集之王.js?type=url&params=../json/采集静态.json$1$1"
+    },
+    {
+            "key": "追剧影视",
+            "name": "追剧｜APP",
+            "type": 3,
+            "api": "csp_AppZJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "洽洽影视",
+            "name": "洽洽｜APP",
+            "type": 3,
+            "api": "csp_AppGZ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "兄弟影视",
+            "name": "兄弟｜APP",
+            "type": 3,
+            "api": "csp_AppGetApp",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "KhYl01Kekjo9vLs09V+rOtv/6QaOFwdQp2ne4h22GLkT99eCXh9SJ/lGZNM8zgk1OnFWx0zBQ9Y/9mAjQB67LaEp7Yj7w9SYBEjFbdPjKy3EHp7uBIHXVI7/dZ4r/dJapz6ihlWwqY2KlGuarL/+9suxO4ZJFOg1OxN+dTrTbi2Muff1CmBkNfrY+s4eQhuLBs4vVhslYH/yyPXePZ1AgNT8ZuBCcfE2LpJ19OKKPIvs+pt4Z/yzVA=="
+        },
+        {
+            "key": "酷影视",
+            "name": "酷影视｜APP",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.tvkuys.xyz/api.php/app/"
+        },
     {
             "key": "alllive",
             "name": "一直播｜LIVE",
@@ -76,7 +142,7 @@
             "key": "在线短剧",
             "name": "在线｜短剧",
             "type": 3,
-            "api": "csp_Duanj",
+            "api": "csp_Duanju",
             "searchable": 1,
             "changeable": 0,
             "style": {
@@ -104,6 +170,16 @@
       "ext": "./json/短剧屋.json"
     },
         {
+      "key": "益达影院",
+      "name": "益达｜影院",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/益达影院.json"
+    },
+        {
           "key": "酷影视",
          "name": "酷影视｜APP",
             "type": 3,
@@ -113,16 +189,6 @@
             "filterable": 1,
             "ext": "https://www.tvkuys.xyz/api.php/app/"
         },
-        {
-         "key": "新感觉",
-         "name": "新感觉｜APP",
-         "type": 3,
-         "api":"csp_AppYsV2",
-         "searchable": 1,
-         "quickSearch": 1,
-          "filterable": 1,
-          "ext": "http://43.248.100.147:9892/api.php/app/"
-        },
     {
       "key": "看了么",
       "name": "看了么｜影视",
@@ -131,35 +197,32 @@
       "ext": "./js/看了么.js"
     }, 
     {
-      "key": "奈飞中文",
-      "name": "奈飞｜中文",
+      "key": "热播影视",
+      "name": "热播｜影视",
       "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
+      "api": "csp_AppRB",
+            "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/奈飞中文.json"
+      "filterable": 1
     },   
       {
       "key": "厂长",
       "name": "🏭┃厂长┃影视",
       "type": 3,
-      "playerType": "2",
       "api": "csp_Czzy",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://czzy.top/"
+      "filterable": 1
     },   
      {
-      "key": "益达影院",
-      "name": "益达影院",
+      "key": "🎃南瓜影视",
+      "name": "🎃南瓜影视",
       "type": 3,
-      "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/益达影院.json"
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/南瓜影视.js"
     },   
 {"key":"剧集","name":"🐞剧集┃短剧","type":3,"api":"csp_XBPQ","ext":{"简介":"剧情介绍：&&</p >","搜索url":"https://wap.ijujitv.cc/search/-------------.html?wd=","分类url":"https://wap.ijujitv.cc/show/{cateId}--------{catePg}---{year}.html","分类":"短剧$9"}},
     {
@@ -181,7 +244,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar":"./jar/fan.jar"
+    "jar": "./jar/nanfeng.jar"
      },
           {
       "key": "haohhaohu.com",
@@ -290,7 +353,7 @@
         "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./panghu.json"
+      "ext": "./json/panghu.json"
     },
       {
       "key": "新视觉",
@@ -313,20 +376,6 @@
     "name":"❤️玩偶妹┃4K",       "type":3,                    "api":"csp_XYQHikerAL",       "searchable":1,               "quickSearch":1,               "filterable":1,
       "ext":"./json/wom.json"
       },
-{
-    "key":"️玩偶哥",
-    "name":"❤️蜡笔┃4K",       "type":3,                    "api":"csp_XYQHikerAL",       "searchable":1,               "quickSearch":1,               "filterable":1,
-      "ext":"./json/woo.json"
-      },
-{
-"key":"星芽短剧",
-"name":"🐞星芽┃短剧",
-"type":3,
-"api":"csp_AppXY",
-"searchable":1,
-"quickSearch":0,
-"filterable":0
-},
     {
       "key": "快看",
       "name": "🍄快看┃影视",
@@ -336,24 +385,25 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
-      "key": "萌米",
-      "name": "🎈┃萌米┃影视",
-      "type": 3,
-       "api": "csp_AppTT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1  
-    }, 
- {
-      "key": "兄弟",
-      "name": "素白白┃影视",
-      "type": 3,
-      "api": "csp_Subaibai",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+{
+            "key": "铁剧影视",
+            "name": "铁剧｜影视",
+            "type": 3,
+            "api": "csp_WebBr",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+           {
+            "key": "BT天堂",
+            "name": "BT天堂｜磁力",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/BT天堂.json"
+        },
         {
       "key": "南瓜",
       "name": "🎃南瓜┃多线",
@@ -369,30 +419,21 @@
       "key": "比特",
       "name": "🍄比特┃秒播",
       "type": 3,
-      "api": "csp_Bttwoo",
+      "api": "csp_Bttwo",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-    "jar": "./jar/nanfeng.jar"
+      "changeable": 1
     },
-{
-"key":"csp_YCyz",
-"name":"☀原创",
-"type":3,
-"api":"csp_YCyz",
-"searchable":1,
-"quickSearch":1,
-"filterable":1,
-"changeable":1,
- "jar": "./jar/nanfeng.jar"
-},
-    {
-       "key":"短剧",
-      "name":"📛逍遥┃短剧",
-       "type": 3,
-       "api":"./js/zb.js",
-       "ext":"./短剧频道/json/duanju.json"
-       },
+  {
+      "key": "剧圈圈",
+      "name": "圆圆┃影视",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+"api":"./js/drpy2.min.js",
+"ext":"./js/剧圈圈.js"
+    },
     {
        "key":"直播转点播",
       "name":"📛逍遥┃福利点播",
